@@ -25,6 +25,6 @@ design.v – Verilog code
 
 testbench.v – Testbench
 
-~Author~
+Author
 
 K Veera Prasad Naik
