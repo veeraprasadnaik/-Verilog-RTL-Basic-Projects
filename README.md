@@ -1,4 +1,4 @@
- Verilog RTL Projects
+  Verilog RTL Projects
 
 This repository contains basic Verilog RTL programs.
 These projects are created for practice and learning digital logic design.
